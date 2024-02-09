@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-City: Chennai
-=======
 City: Villupuram
->>>>>>> Abishek
+
